@@ -10,4 +10,4 @@ State - binary vector in length N, represent the presence/ absance of each speci
 Action - Either add or remove one species at a step.
 Reward - The function value. 
 
-
+The Algorithm implemented is DQN (deep q learning), implemented using PyTroch.
